@@ -1,5 +1,5 @@
 ## Hi there 👋, 
-My name is Phong, and I am in my final year doing Bachelor of Computer Science at The University of Adelaide. Please feel free to check out my repos. 
+My name is Phong, and I am in my first year doing Master of Computer Science at The University of Adelaide. Please feel free to check out my repos. 
 
 <!--
 **aintnoBaka7227/aintnoBaka7227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
