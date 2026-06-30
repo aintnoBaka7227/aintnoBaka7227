@@ -8,8 +8,12 @@ My main languages are C++ and Java, with minor knowledge in C. My techstack is M
 Currently learning .NET to build Foodie - a Distributed Food Management System. 
 
 Experiences: 
+CyberLab
 - Software engineer intern in Cyberlab, contributed to the lab's digital twins and implemeted a web vulnerability simulator (inspired by OWASP's Juice Shop).
 - Research intern on AWS Networking, Linux route steering in particular.
+
+AI for Space, AIML
+- Research Intern on Optimisation for Space Debris Association. 
 
 Look below for more details on what I have built so far. 
 
