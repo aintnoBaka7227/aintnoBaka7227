@@ -9,12 +9,17 @@ Currently learning .NET to build Foodie - a Distributed Food Management System.
 
 Experiences:
 
+Past: 
 CyberLab
 - Software engineer intern in Cyberlab, contributed to the cyber security lab's digital twins and implemeted a web vulnerability simulator (inspired by OWASP's Juice Shop).
 - Research intern on AWS Networking, Linux route steering in particular.
 
+Current:
 AI for Space, AIML
-- Research Intern on Optimisation for Space Debris Association. 
+- Research Intern on Optimisation for Space Debris Association.
+
+AI Developer Intern, DidgeNet Pty Ltd
+- Building an AI Application to support Indigenous Rangers gathering data better to support their habitats conservation and document for Government Audit
 
 Look below for more details on what I have built so far. 
 
