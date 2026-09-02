@@ -23,10 +23,7 @@ AI for Space, AIML
 AI Developer Intern, DidgeNet Pty Ltd
 - Building an AI Application to support Indigenous Rangers gathering data better to support their habitats conservation and document for Government Audit
 
-Look below for more details on what I have built so far. 
-
-Fun facts: 
-I love "ball" sports: volley, basket, foot, and a die hard Chelsea fan. 
+Look below for more details on what I have built so far.  
 
 <!--
 **aintnoBaka7227/aintnoBaka7227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
