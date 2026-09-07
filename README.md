@@ -1,7 +1,7 @@
 # Hi there 👋, 
 My name is Phong, and I am a software engineer based in Adelaide, Australia. 
 
-I solve daily problems with software, to make my life and other easier. My current interest is in securing distributed systems on cloud, and computer networks. 
+I solve daily problems with software, to make my life and other easier. My current interest is in securing and enhancing distributed systems on cloud, and computer networks with AI. 
 I love to get my hand dirty learning new technologies. 
 
 My main languages are C++ and Java, with minor knowledge in C. My techstack is MERN, with specialisation in backend development and database designs. 
