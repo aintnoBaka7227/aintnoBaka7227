@@ -17,10 +17,10 @@ CyberLab
 
 Current:
 
-AI for Space, AIML
-- Research Intern on Optimisation for Space Debris Association.
+AI for Space, AIML - Research Intern
+- Research on Optimisation for Space Debris Association.
 
-AI Developer Intern, DidgeNet Pty Ltd
+DidgeNet - AI Developer Intern
 - Building an AI Application to support Indigenous Rangers gathering data better to support their habitats conservation and document for Government Audit
 
 Look below for more details on what I have built so far.  
