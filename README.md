@@ -23,7 +23,7 @@ AI for Space, AIML - Research Intern
 DidgeNet - AI Developer Intern
 - Building an AI Application to support Indigenous Rangers gathering data better to support their habitats conservation and document for Government Audit
 
-Look below for more details on what I have built so far.  
+Check the list below if you are curious about what I am doing 
 
 <!--
 **aintnoBaka7227/aintnoBaka7227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
