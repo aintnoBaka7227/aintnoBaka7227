@@ -1,8 +1,8 @@
 # Hi there 👋, 
 My name is Phong, and I am a software engineer based in Adelaide, Australia. 
 
-I solve daily problems with software, to make my life and other easier. My current interest is in securing and enhancing distributed systems on cloud, and computer networks with AI. 
-I love to get my hand dirty learning new technologies. 
+I solve daily problems with software, to make my life and other easier. Having a background in networking and distributed systems, I am finding myself in the middle of the career transition into cloud computing and applied AI.
+I love to get my hand dirty learning new techs to improve my skillsets, slow but steady. 
 
 My main languages are C++ and Java, with minor knowledge in C. My techstack is MERN, with specialisation in backend development and database designs. 
 Currently learning .NET to build Foodie - a Distributed Food Management System. 
@@ -18,10 +18,10 @@ CyberLab
 ### Current:
 
 AI for Space, AIML - Research Intern
-- Research on Optimisation for Space Debris Association.
+- Research on Optimisation for Tracklet association (lots of maths).
 
 DidgeNet - AI Developer Intern
-- Building an AI Application to support Indigenous Rangers gathering data better to support their habitats conservation and document for Government Audit
+- Consult AI transformation and build RAGs to enhance clients' business workflow.
 
 Check the list below if you are curious about what I am doing 
 
