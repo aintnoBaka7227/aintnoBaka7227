@@ -1,7 +1,7 @@
 # Hi there 👋, 
 My name is Phong, and I am a software engineer based in Adelaide, Australia. 
 
-Having a background in networking and distributed systems, I am finding myself in the middle of the career transition into cloud computing and applied AI.
+Started in networking and distributed systems, I am finding myself in the middle of the career transition into applied AI.
 I love to get my hand dirty learning new techs to improve my skillsets, slow but steady. 
 
 My main languages are C++ and Java, with minor knowledge in C. My techstack is MERN, with specialisation in backend development and database designs. 
@@ -20,8 +20,8 @@ CyberLab
 AI for Space, AIML - Research Intern
 - Research on Optimisation for Tracklet association (lots of maths).
 
-DidgeNet - AI Developer Intern
-- Consult AI transformation and build RAGs to enhance clients' business workflow.
+DidgeNet - AI Engineer
+- Consult AI transformation and build Agentic RAGs to enhance clients' business workflow.
 
 Check the list below if you are curious about what I am doing 
 
