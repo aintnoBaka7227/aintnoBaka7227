@@ -1,4 +1,4 @@
-# Hi there 👋, 
+# Hi there 🔭, 
 My name is Phong, and I am a software engineer based in Adelaide, Australia. 
 
 Started in networking and distributed systems, I am finding myself in the middle of the career transition into applied AI.
