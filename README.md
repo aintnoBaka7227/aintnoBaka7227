@@ -15,11 +15,10 @@ CyberLab
 - Software engineer intern in Cyberlab, contributed to the cyber security lab's digital twins and implemeted a web vulnerability simulator (inspired by OWASP's Juice Shop).
 - Research intern on AWS Networking, Linux route steering in particular.
 
-### Current:
-
 AI for Space, AIML - Research Intern
 - Research on Optimisation for Tracklet association (lots of maths).
 
+### Current:
 DidgeNet - AI Engineer
 - Consult AI transformation and build Agentic RAGs to enhance clients' business workflow.
 
